@@ -77,7 +77,7 @@ If you'd like to contribute to this project, please follow our [Contribution Gui
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. - see the [LICENSE](LICENSE.md) file for details.
 
 ---
 
